@@ -1,0 +1,41 @@
+* {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  text-align: justify;
+}
+
+body {
+  margin: 0 10%;
+}
+
+h1, h2 {
+  font-family: 'Times New Roman', serif;
+  color: limegreen;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+blockquote {
+  margin-left: 60px;
+  margin-right: 0;
+}
+
+p.card-paragraph {
+  border: 3px solid limegreen;
+  padding: 10px;
+  background-image: url('../imagens/fundo.png');
+}
+
+img {
+  width: 300px;
+  border: 8px solid limegreen;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
